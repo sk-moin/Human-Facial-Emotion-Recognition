@@ -82,6 +82,7 @@ python app.py
 
 Then open http://localhost:5000
 
+---
 
 ## 📦 Dockerization
 
@@ -89,12 +90,15 @@ This project uses a Dockerfile to create a container for the app.
 
 <img width="913" height="366" alt="image" src="https://github.com/user-attachments/assets/4560027f-2ec6-4ab8-aedb-519d6f60e5cf" />
 
+---
 
 ## AWS Deployment
 
 <img width="878" height="576" alt="image" src="https://github.com/user-attachments/assets/00e35363-e5b4-4e93-bb10-001b39ab3ff3" />
 
 <img width="701" height="298" alt="image" src="https://github.com/user-attachments/assets/aab39967-5fb5-4f8e-a8b3-29c998fb3466" />
+
+---
 
 ## 🚀 Usage
 
