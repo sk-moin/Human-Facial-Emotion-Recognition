@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyTorch
+*.pth
+*.pt
+
+# Flask
+instance/
+*.log
+
+# Uploads / generated files
+static/uploads/*
+!static/uploads/.gitkeep
+
+# Docker
+*.tar
+
+# AWS / credentials
+.aws/
+aws_credentials
+aws_config
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build / cache
+build/
+dist/
