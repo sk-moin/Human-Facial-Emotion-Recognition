@@ -72,9 +72,9 @@ The web server (`app.py`) uses:
   
 - Show the uploaded image and predicted emotion
 
+
 ### Start Flask Locally
 
-```bash
 
 pip install -r requirements.txt
 
