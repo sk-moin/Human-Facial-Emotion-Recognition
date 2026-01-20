@@ -73,6 +73,12 @@ The web server (`app.py`) uses:
 - Show the uploaded image and predicted emotion
 
 
+### Web App Snapshot
+
+<img width="483" height="916" alt="Screenshot 2026-01-19 182124" src="https://github.com/user-attachments/assets/c15c8e7e-351b-43bc-89e0-0aca25e98157" />
+
+
+
 ### Start Flask Locally
 
 
